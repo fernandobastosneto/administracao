@@ -1,9 +1,9 @@
 Package: administracao
-Title: Administracao No Itamaraty
+Title: Administração
 Version: 0.0.0.9000
 Authors@R: 
-    person("Fernando", "Bastos", , "fernando.bastos@itamaraty.gov.br"))
-Description: Facilita a vida de quem trabalha com administração no Ministério das Relações Exteriores.
+    person("Fernando", "Bastos", email = "fernando.bastos@itamaraty.gov.br", role = c("aut", "cre"))
+Description: Facilita a vida de quem trabalha com administração no Itamaraty.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
