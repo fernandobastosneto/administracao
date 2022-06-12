@@ -11,3 +11,5 @@ RoxygenNote: 7.1.2
 Imports: 
     dplyr,
     lubridate
+URL: https://github.com/fernandobastosneto/administracao
+BugReports: https://github.com/fernandobastosneto/administracao/issues
